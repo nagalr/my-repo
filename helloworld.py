@@ -5,6 +5,7 @@ def helloworld():
 	print("Hello world 4")
 	print("Hello world 5")
 	print("Hello world 6")
+	print("Hello world 7")
 
 
 id '__name__' == __main__:
